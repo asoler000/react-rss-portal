@@ -15,7 +15,7 @@
     "web-vitals": "^1.1.2"
   },
 
-  "homepage": "http://asoler000.github.io//react-rss-portal",
+  "homepage": "https://asoler000.github.io/react-rss-portal",
 
   "scripts": {
     "start": "react-scripts start",

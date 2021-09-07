@@ -7,9 +7,8 @@ import Dashboard from './Dashboard';
 
 
 
-
 const App = () => (
-<Router basename="/SignIn">
+<Router>
     <div className="App">
     <div class="container-fluid">
  
@@ -17,7 +16,7 @@ const App = () => (
       
           <Switch>
             <Route exact path='/' component={SignIn} />
-            <Route path="/SignIn" component={SignIn} />
+            <Route path="/sign-in" component={SignIn} />
             <Route path="/Dashboard" component={Dashboard} />
          
           
