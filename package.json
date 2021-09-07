@@ -2,6 +2,7 @@
   "name": "rss-portal-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://asoler000.github.io/react-rss-portal",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -15,7 +16,7 @@
     "web-vitals": "^1.1.2"
   },
 
-  "homepage": "https://asoler000.github.io/react-rss-portal",
+
 
   "scripts": {
     "start": "react-scripts start",

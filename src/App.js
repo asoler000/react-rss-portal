@@ -8,7 +8,7 @@ import Dashboard from './Dashboard';
 
 
 const App = () => (
-<Router>
+< BrowserRouter basename={process.env.PUBLIC_URL}>
     <div className="App">
     <div class="container-fluid">
  
@@ -23,7 +23,7 @@ const App = () => (
     
           </Switch>
 
-    </div></div></Router>
+    </div></div></BrowserRouter>
   );
 
   
