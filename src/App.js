@@ -6,8 +6,17 @@ import SignIn from './SignIn';
 import Dashboard from './Dashboard';
 
 
+class App extends React.Component{
+constructor(props){
+  super(props);
+  this.state = {
+currentPage: "SignIn"
+  };
+}
+render() {
 
-const App = () => (
+return (
+
 <Router>
     <div className="App">
     <div class="container-fluid">
@@ -15,7 +24,7 @@ const App = () => (
    
       
           <Switch>
-            <Route exact path='/' component={SignIn} />
+            <Route exact path='/rss-portal-react' component={SignIn} />
             <Route path="/SignIn" component={SignIn} />
             <Route path="/Dashboard" component={Dashboard} />
      
@@ -24,7 +33,9 @@ const App = () => (
           </Switch>
 
     </div></div></Router>
+    
   );
 
-  
+}
+}
   export default App;
