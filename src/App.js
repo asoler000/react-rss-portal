@@ -1,6 +1,7 @@
 import React from 'react';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import {BrowserRouter} from "react-dom"
 import './App.css';
 import SignIn from './SignIn';
 import Dashboard from './Dashboard';
