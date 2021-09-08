@@ -33,8 +33,8 @@ const ShowAndHide = () => {
 <p>{myStatus}</p>
 <p>{myStatus === "Open Calls (101)" && <OpenCallsTable/>}</p>
 <p>{myStatus === "Closed Calls (79)" && <ClosedCallsTable/>}</p>
-<p>{myStatus == "Visit Status (200)" && <VisitStatus/>}</p>
-<p>{myStatus == "Search Filter" && <SearchFilterTop/>}</p>
+<p>{myStatus === "Visit Status (200)" && <VisitStatus/>}</p>
+<p>{myStatus === "Search Filter" && <SearchFilterTop/>}</p>
 </div>
 <p></p>
 </div>

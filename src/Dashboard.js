@@ -1,16 +1,18 @@
 import React from 'react';
 import { Component } from "react";
 import DashboardHeader from './components/DashboardHeader';
-
 import DefaultDashboard from './components/DefaultDashboard';
-import ClosedCallsTable from './components/ClosedCallsTable';
 
 
 
 
 
 
-const Dashboard = () => (
+
+export default class SignIn extends Component {
+  
+  render() {
+      return (
   <div className="">
     <div className="row">
     <DashboardHeader/>
@@ -21,6 +23,8 @@ const Dashboard = () => (
 
 
 </div>
-  );
-
-export default Dashboard;
+        );
+      }
+    
+  }
+  

@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import {ReactComponent as ReactLogo} from '../src/logoBlack.svg';
-import { Link } from 'react-router-dom';
+import {Link } from "react-router-dom";
+
+
 
 
 export default class SignIn extends Component {
@@ -30,14 +32,17 @@ export default class SignIn extends Component {
                       <label className="custom-control-label" htmlFor="customCheck1" >Remember me</label>
                   </div>
               </div>
-<Link to="/Dashboard">
+<Link to="Dashboard">
               <button type="submit" className="btn btn-primary btn-block" >Submit</button></Link>
               <p className="forgot-password text-right">
                   Forgot <a href="#">password?</a>
               </p>
           </form>
           </div>
+         
           </div>
+
+          
         );
     }
   
