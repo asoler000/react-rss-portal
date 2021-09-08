@@ -1,7 +1,4 @@
 import React from 'react';
-import { Component } from "react";
-import {Redirect, Link } from 'react-router-dom';
-import SearchFilterTop from './SearchFilterTop';
 import ShowAndHide from './Prof';
 
 const DefaultDashboard = () => (

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Component, useState } from "react";
+import { useState } from "react";
 import OpenCallsTable from './OpenCallsTable';
 import ClosedCallsTable from './ClosedCallsTable';
 import VisitStatus from './VisitStatus';

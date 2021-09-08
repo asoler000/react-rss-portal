@@ -1,6 +1,5 @@
 import React from 'react';
-import { Component } from "react";
-import {Redirect, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import logo from '../logo.svg';
 import SearchFilterTop from './SearchFilterTop';
 
