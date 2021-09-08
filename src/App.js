@@ -18,7 +18,7 @@ function App() {
           <Switch>
           <Route exact path="/react-rss-portal" component={SignIn} />
             <Route path="/SignIn" component={SignIn} />
-            <Route path="/Dashboard" component={Dashboard} />
+            <Route path="/react-rss-portal/Dashboard" component={Dashboard} />
      
        
     
