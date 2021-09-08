@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {ReactComponent as ReactLogo} from '../src/logoBlack.svg';
-import {Redirect, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 export default class SignIn extends Component {

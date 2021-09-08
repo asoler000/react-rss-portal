@@ -20,7 +20,7 @@ const App = () => (
             <Route path="/SignIn" component={SignIn} />
             <Route path="/Dashboard" component={Dashboard} />
          
-          
+          <H2>Hello World</H2>
     
           </Switch>
 
