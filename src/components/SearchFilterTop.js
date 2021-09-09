@@ -39,9 +39,20 @@ const SearchFilterTop= () =>{
                 <option selected>Status...</option>
                 <option>Scheduled</option>
                 <option>Pending</option>
-                <option>Option 3</option>
-                <option>Option 4</option>
-                <option>Option 5</option>
+                <option>New</option>
+                <option>Service Complete</option>
+                <option>Pending </option>
+                <option>Pending Return</option>
+                <option>Follow Up</option>
+                <option>Tech On Site</option>
+                <option>Scheduled</option>
+                <option>Visit Complete</option>
+                <option>Cancelled</option>
+                <option>Minimum Charge</option>
+                <option>Vendor Complete</option>
+                <option>Billing Inquiry</option>
+                <option>DNE Confirmed</option>
+
               </select></div>
           </div>
           <div className="col-md-2">

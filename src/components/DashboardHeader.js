@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../logo.svg';
 import SearchFilterTop from './SearchFilterTop';
+import SignIn from '../SignIn'
 
 
 const DashboardHeader = () => (
@@ -18,7 +19,7 @@ const DashboardHeader = () => (
     <li className="nav-item text-nowrap">
     
       <a className="nav-link p-2" href="# " target="_blank" rel="noopener" >
-      <Link to="/"> Sign Out</Link>
+      <Link to="/react-rss-portal/SignIn">Sign Out</Link>
        </a>
     </li>
   </ul>

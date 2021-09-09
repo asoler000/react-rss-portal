@@ -2,6 +2,8 @@ import React from 'react';
 import { Component } from "react";
 import DashboardHeader from './components/DashboardHeader';
 import DefaultDashboard from './components/DefaultDashboard';
+import './assets/css/bootstrap.css';
+
 
 
 

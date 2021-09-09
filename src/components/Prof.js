@@ -12,7 +12,7 @@ const ShowAndHide = () => {
     <div>
   
    
-    <div className="col mb-3 col-12 text-center">
+    <div className="col p-3 mb-3 col-12 text-center">
       <div className="btn-group "
       role="group"
       aria-label="Basic Example">
@@ -20,7 +20,7 @@ const ShowAndHide = () => {
           <button
           type="button"
           key={profession}
-          className={"btn btn-light border-dark "}
+          className={"btn btn-light border-dark"}
           onClick={() => setMyStatus( profession )}>
             {profession.toLocaleUpperCase()}
           </button>
