@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-rss-portal/static/css/main.4751e550.chunk.css",
-    "main.js": "/react-rss-portal/static/js/main.e90fc1bb.chunk.js",
-    "main.js.map": "/react-rss-portal/static/js/main.e90fc1bb.chunk.js.map",
-    "runtime-main.js": "/react-rss-portal/static/js/runtime-main.edc090a3.js",
-    "runtime-main.js.map": "/react-rss-portal/static/js/runtime-main.edc090a3.js.map",
-    "static/css/2.818011ed.chunk.css": "/react-rss-portal/static/css/2.818011ed.chunk.css",
-    "static/js/2.4fc009b5.chunk.js": "/react-rss-portal/static/js/2.4fc009b5.chunk.js",
-    "static/js/2.4fc009b5.chunk.js.map": "/react-rss-portal/static/js/2.4fc009b5.chunk.js.map",
-    "static/js/3.574139ed.chunk.js": "/react-rss-portal/static/js/3.574139ed.chunk.js",
-    "static/js/3.574139ed.chunk.js.map": "/react-rss-portal/static/js/3.574139ed.chunk.js.map",
+    "main.css": "/react-rss-portal/static/css/main.9533dad4.chunk.css",
+    "main.js": "/react-rss-portal/static/js/main.0fdf725e.chunk.js",
+    "main.js.map": "/react-rss-portal/static/js/main.0fdf725e.chunk.js.map",
+    "runtime-main.js": "/react-rss-portal/static/js/runtime-main.ad875b44.js",
+    "runtime-main.js.map": "/react-rss-portal/static/js/runtime-main.ad875b44.js.map",
+    "static/css/2.f11b92c5.chunk.css": "/react-rss-portal/static/css/2.f11b92c5.chunk.css",
+    "static/js/2.6a998cf9.chunk.js": "/react-rss-portal/static/js/2.6a998cf9.chunk.js",
+    "static/js/2.6a998cf9.chunk.js.map": "/react-rss-portal/static/js/2.6a998cf9.chunk.js.map",
+    "static/js/3.fde8967f.chunk.js": "/react-rss-portal/static/js/3.fde8967f.chunk.js",
+    "static/js/3.fde8967f.chunk.js.map": "/react-rss-portal/static/js/3.fde8967f.chunk.js.map",
     "index.html": "/react-rss-portal/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/react-rss-portal/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.4751e550.chunk.css.map": "/react-rss-portal/static/css/main.4751e550.chunk.css.map",
-    "static/js/2.4fc009b5.chunk.js.LICENSE.txt": "/react-rss-portal/static/js/2.4fc009b5.chunk.js.LICENSE.txt",
+    "static/css/2.f11b92c5.chunk.css.map": "/react-rss-portal/static/css/2.f11b92c5.chunk.css.map",
+    "static/css/main.9533dad4.chunk.css.map": "/react-rss-portal/static/css/main.9533dad4.chunk.css.map",
+    "static/js/2.6a998cf9.chunk.js.LICENSE.txt": "/react-rss-portal/static/js/2.6a998cf9.chunk.js.LICENSE.txt",
     "static/media/logo.d8964cdb.svg": "/react-rss-portal/static/media/logo.d8964cdb.svg",
     "static/media/logoBlack.ff827502.svg": "/react-rss-portal/static/media/logoBlack.ff827502.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.edc090a3.js",
-    "static/css/2.818011ed.chunk.css",
-    "static/js/2.4fc009b5.chunk.js",
-    "static/css/main.4751e550.chunk.css",
-    "static/js/main.e90fc1bb.chunk.js"
+    "static/js/runtime-main.ad875b44.js",
+    "static/css/2.f11b92c5.chunk.css",
+    "static/js/2.6a998cf9.chunk.js",
+    "static/css/main.9533dad4.chunk.css",
+    "static/js/main.0fdf725e.chunk.js"
   ]
 }
